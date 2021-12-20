@@ -1,0 +1,29 @@
+nav,button{
+	font-size: 1.1em !important;
+}
+.navbar-brand{
+	font-size: 1.5em;
+}
+header{
+	background: url('../image.jpg');
+	background-size:cover ;
+}
+
+.boxes{
+	margin-top: 100px;
+}
+.boxes > div{
+	background: rgba(255,255,255,0.9);
+	margin-right: 5px;
+	margin-bottom: 5px;
+}
+
+.contact{
+	background: url('contact.png');
+}
+
+footer{
+	background: rgba(0,0,0,.9);
+}
+
+
