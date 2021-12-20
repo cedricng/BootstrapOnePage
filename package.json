@@ -1,0 +1,20 @@
+{
+  "name": "onepage",
+  "version": "1.0.0",
+  "description": "A Responsive Bootstrap HTML page with menu header, footer, articles, and contact form.",
+  "main": "bootstrap.min.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cedricng/BootstrapOnePage.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cedricng/BootstrapOnePage/issues"
+  },
+  "homepage": "https://github.com/cedricng/BootstrapOnePage#readme"
+}
